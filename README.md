@@ -1,4 +1,4 @@
-👋 Hi, I'm Edy Susilo,I am a undergraduated student of informatics engineering at the Muhammadiyah University of Surakarta with experience in 
+👋 Hi, I'm Edy Susilo,I am an undergraduated student of informatics engineering at the Muhammadiyah University of Surakarta with experience in 
 Basic Web development and also has an interest in of Machine Learning. 
 I am a person who is careful and conscientious in my work. Able to quickly adapt to team and individual work.
 
